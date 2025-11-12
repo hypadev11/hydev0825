@@ -52,7 +52,7 @@
     - DevOps, 서버 자동화, 실시간 모니터링 시스템 구축
 
 - 🚀 **현재 진행 중**
-    - [PIORA](https://piora.net/) 서비스를 준비하고 있어요
+    - [LETO](https://leto.kr/) 서비스를 준비하고 있어요
     - [TEAM ARI](https://with-ari.kr/)의 아리 봇의 코드 리팩토링 및 100개 이상의 커밋으로 팀에 기여하고 있어요
     - [페더아이티](https://feather-it.com/) 회사를 운영하고 있어요
 
@@ -70,7 +70,7 @@
 </p>
 
 <p align="center">
-  <!-- WakaTime (SVG Embed with size control) -->
+  <!-- WakaTime -->
   <img src="https://wakatime.com/share/@98c555b6-db34-402d-8a89-c902873475b8/d57161fd-3230-4c92-8f14-fce83a372a9b.svg" width="600" />
 </p>
 
@@ -82,7 +82,7 @@
 최대한 빠르게 답변드리기 위해 노력할게요.
 
 - Email: park@hyunjun.me
-- Discord: @hyunjun.me
+- Discord: @hypadev11
 - TG: @hypamonster
 ---
 
